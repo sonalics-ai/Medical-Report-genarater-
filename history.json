@@ -1,0 +1,235 @@
+[
+  {
+    "id": 1,
+    "patient_name": "Arjun",
+    "age": "52",
+    "gender": "Male",
+    "date": "04/04/2026",
+    "symptoms": "chest pain dizziness and sweating",
+    "risks": [
+      "Hypertension (High Blood Pressure)",
+      "Hypertension (Diastolic)",
+      "Uncontrolled Diabetes / High Blood Sugar",
+      "Hypercholesterolemia (High Cholesterol)"
+    ],
+    "recommendations": [
+      "Monitor blood pressure daily",
+      "Reduce salt intake and avoid stress",
+      "Consult a cardiologist",
+      "Monitor blood sugar levels regularly",
+      "Follow a strict low-sugar diet",
+      "HbA1c test recommended",
+      "Avoid fried and fatty foods",
+      "Lipid profile test recommended",
+      "ECG (Electrocardiogram) test recommended",
+      "Cardiology consultation advised"
+    ],
+    "findings": [
+      "Blood Pressure (Systolic): HIGH (165.0 mmHg) - Normal: 90-120",
+      "Blood Pressure (Diastolic): HIGH (100.0 mmHg) - Normal: 60-80",
+      "Blood Sugar: HIGH (190.0 mg/dL) - Normal: 70-140",
+      "Cholesterol: HIGH (250.0 mg/dL) - Normal: 0-200",
+      "Hemoglobin: NORMAL (13.0 g/dL)",
+      "Pulse Rate: HIGH (110.0 bpm) - Normal: 60-100"
+    ],
+    "simple_risks": [
+      "Your blood pressure is higher than normal",
+      "The lower number of your blood pressure is too high",
+      "Your blood sugar level is very high and needs attention",
+      "There is too much fat in your blood"
+    ],
+    "simple_recs": [
+      "Check your blood pressure every day at the same time",
+      "Eat less salt in your food and try to stay calm and relaxed",
+      "Visit a heart specialist doctor as soon as possible",
+      "Check your sugar levels every day using a glucometer",
+      "Avoid sweets, rice, bread and sugary drinks in your daily food",
+      "Get a special blood test that shows your average sugar for 3 months",
+      "Do not eat oily or deep fried food items",
+      "Get a blood test to check the fat levels in your body",
+      "Get a heart test where wires are placed on your chest to check heart activity",
+      "See a heart doctor for a detailed checkup"
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Tablet Amlodipine 5mg",
+        "dosage": "Once daily in the morning",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Telmisartan 40mg",
+        "dosage": "Once daily after breakfast",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Metoprolol 25mg",
+        "dosage": "Twice daily after meals",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Metformin 500mg",
+        "dosage": "Twice daily after meals",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Glimepiride 1mg",
+        "dosage": "Once daily before breakfast",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Atorvastatin 10mg",
+        "dosage": "Once daily at night",
+        "duration": "1 month"
+      }
+    ],
+    "pdf_file": "report_Arjun.pdf",
+    "timestamp": "04/04/2026 19:21"
+  },
+  {
+    "id": 2,
+    "patient_name": "Sneha",
+    "age": "28",
+    "gender": "Female",
+    "date": "04/04/2026",
+    "symptoms": "fatigue, hair loss, cold hands",
+    "risks": [
+      "Anemia (Low Hemoglobin)"
+    ],
+    "recommendations": [
+      "Iron-rich diet recommended",
+      "Complete Blood Count (CBC) test advised"
+    ],
+    "findings": [
+      "Blood Pressure (Systolic): NORMAL (100.0 mmHg)",
+      "Blood Pressure (Diastolic): NORMAL (65.0 mmHg)",
+      "Blood Sugar: NORMAL (80.0 mg/dL)",
+      "Cholesterol: NORMAL (180.0 mg/dL)",
+      "Hemoglobin: LOW (9.0 g/dL) - Normal: 12-17",
+      "Pulse Rate: NORMAL (68.0 bpm)"
+    ],
+    "simple_risks": [
+      "Your blood does not have enough iron and you may feel tired"
+    ],
+    "simple_recs": [
+      "Eat more spinach, beans, eggs and meat to increase your iron",
+      "Get a full blood test to check all your blood cells"
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Tablet Ferrous Sulphate 200mg",
+        "dosage": "Twice daily after meals",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Folic Acid 5mg",
+        "dosage": "Once daily after breakfast",
+        "duration": "1 month"
+      }
+    ],
+    "pdf_file": "report_Sneha.pdf",
+    "timestamp": "04/04/2026 19:30"
+  },
+  {
+    "id": 4,
+    "patient_name": "chhavi",
+    "age": "22",
+    "gender": "Female",
+    "date": "05/04/2026",
+    "symptoms": "nausea,headache Left arm and chest pain and breathlessness\n",
+    "risks": [
+      "Hypertension (High Blood Pressure)",
+      "Hypertension (Diastolic)"
+    ],
+    "recommendations": [
+      "Monitor blood pressure daily",
+      "Reduce salt intake and avoid stress",
+      "Consult a cardiologist",
+      "ECG (Electrocardiogram) test recommended",
+      "Cardiology consultation advised",
+      "Chest X-ray recommended",
+      "Pulmonology consultation advised"
+    ],
+    "findings": [
+      "Blood Pressure (Systolic): HIGH (150.0 mmHg) - Normal: 90-120",
+      "Blood Pressure (Diastolic): HIGH (100.0 mmHg) - Normal: 60-80",
+      "Hemoglobin: NORMAL (14.0 g/dL)",
+      "Pulse Rate: NORMAL (80.0 bpm)"
+    ],
+    "simple_risks": [
+      "Your blood pressure is higher than normal",
+      "The lower number of your blood pressure is too high"
+    ],
+    "simple_recs": [
+      "Check your blood pressure every day at the same time",
+      "Eat less salt in your food and try to stay calm and relaxed",
+      "Visit a heart specialist doctor as soon as possible",
+      "Get a heart test where wires are placed on your chest to check heart activity",
+      "See a heart doctor for a detailed checkup",
+      "Get an X-ray picture of your chest and lungs taken",
+      "See a lung specialist doctor"
+    ],
+    "prescriptions": [
+      {
+        "medicine": "Tablet Amlodipine 5mg",
+        "dosage": "Once daily in the morning",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Telmisartan 40mg",
+        "dosage": "Once daily after breakfast",
+        "duration": "1 month"
+      },
+      {
+        "medicine": "Tablet Metoprolol 25mg",
+        "dosage": "Twice daily after meals",
+        "duration": "1 month"
+      }
+    ],
+    "pdf_file": "report_chhavi.pdf",
+    "timestamp": "05/04/2026 22:50"
+  },
+  {
+    "id": 4,
+    "patient_name": "jessi",
+    "age": "30",
+    "gender": "Female",
+    "date": "05/04/2026",
+    "symptoms": "front tooth with black discoloration",
+    "risks": [],
+    "recommendations": [
+      "Maintain a healthy diet and exercise regularly",
+      "Routine checkup after 3 months"
+    ],
+    "findings": [],
+    "simple_risks": [],
+    "simple_recs": [
+      "Eat healthy food and walk or exercise for 30 minutes every day",
+      "Visit your doctor again after 3 months for a follow up"
+    ],
+    "prescriptions": [],
+    "pdf_file": "report_jessi.pdf",
+    "timestamp": "05/04/2026 22:54"
+  },
+  {
+    "id": 5,
+    "patient_name": "jessi",
+    "age": "30",
+    "gender": "Female",
+    "date": "05/04/2026",
+    "symptoms": "front tooth with black discoloration",
+    "risks": [],
+    "recommendations": [
+      "Maintain a healthy diet and exercise regularly",
+      "Routine checkup after 3 months"
+    ],
+    "findings": [],
+    "simple_risks": [],
+    "simple_recs": [
+      "Eat healthy food and walk or exercise for 30 minutes every day",
+      "Visit your doctor again after 3 months for a follow up"
+    ],
+    "prescriptions": [],
+    "pdf_file": "report_jessi.pdf",
+    "timestamp": "05/04/2026 22:55"
+  }
+]
